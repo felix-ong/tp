@@ -214,6 +214,12 @@ The following activity diagram summarizes what happens when a user enters and ex
 
 In modern CLI applications, an alias is mainly used for abbreviating system commands or adding default arguments to regularly used commands. Considering the target use of SportsPA and time constraints, since command arguments are not likely to be repeated, we decided that it was sufficient to allow users to create shortcuts for commands only.
 
+### Split feature
+
+#### Implementation
+
+The split mechanism is facilitated by `AddressBookParser`. 
+
 ### \[Proposed\] Undo/redo feature
 
 #### Proposed Implementation
