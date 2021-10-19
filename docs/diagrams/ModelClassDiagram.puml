@@ -43,8 +43,7 @@ Person *--> Phone
 Person *--> Availability
 
 Name -[hidden]right-> Phone
-Phone -[hidden]right-> Address
-Address -[hidden]right-> Email
+Availability -[hidden]right-> Phone
 
 ModelManager -->"~* filtered" Person
 @enduml
