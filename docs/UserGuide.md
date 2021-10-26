@@ -15,8 +15,9 @@ guide provides an in-depth documentation on the all the commands available. If t
 we also provide a quick start guide that demonstrates the end-to-end setup process to get you started.
 
 _____________________________________________________________________________________________________________
-## <a name="table-of-contents"></a>Table of Contents
-* {:toc}
+## Table of contents<a name="table-of-contents"></a>
+* Table of Contents 
+{:toc}
 _____________________________________________________________________________________________________________
 ## How to use the User Guide
 
